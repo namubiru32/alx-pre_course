@@ -1,0 +1,1 @@
+This fle is mandatory in Alx School projects
